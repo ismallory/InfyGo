@@ -1,1 +1,1 @@
-spring.datasource.url=jdbc:mysql://localhost/infygo-customer
+spring.datasource.url=jdbc:mysql://localhost/infygo_customer
